@@ -1,2 +1,5 @@
 git pull 用来从github上获得最新更改。
+git push 推送更改
+git add 添加修改
+git commit 提交修改
 
