@@ -1,5 +1,7 @@
 git pull 用来从github上获得最新更改。
 git push 推送更改
-git add 添加修改
+git add 添加文件到工作区
 git commit 提交修改
-
+git checkout -- <fileNAME>" 丢弃工作区的改动，
+git reset --hard HEAD^上一个版本 HEAD^^两个以前版本 git reset --hard commit_id
+git reflog回复记录
